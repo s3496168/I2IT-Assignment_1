@@ -1,0 +1,18 @@
+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
+
+Your identification has been saved in /c/Users/b_c_g/.ssh/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
+Your public key has been saved in /c/Users/b_c_g/.ssh/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.pub
+The key fingerprint is:
+SHA256:tuv+5gyTbmDkYDZ4pyqrVoxED3lgactr3ptMSmiwCxc bcgibson22@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+| o+              |
+|.* .             |
+|+ =.             |
+| +..* o          |
+|o E+ B  S        |
+|o= +. +. o       |
+|*o+o . .=        |
+|===..  ..=.      |
+|*+ +.  +=++      |
++----[SHA256]-----+
