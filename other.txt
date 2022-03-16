@@ -1,0 +1,16 @@
+Your identification has been saved in /home/user-bg-1023/.ssh/id_ed25519-MINE.
+Your public key has been saved in /home/user-bg-1023/.ssh/id_ed25519-MINE.pub.
+The key fingerprint is:
+SHA256:WpzNN/1dXI2PCBray7CiPOBwuGrLfvJoO4CVCCqNpUc bcgibson22@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|                 |
+|. E            ..|
+|oB .    . .   . o|
+|* =    + * . o +.|
+|o+    o S o + o +|
+|* .    * . . . .o|
+|++  . o o       o|
+|oBoo .           |
+|**Xo             |
++----[SHA256]-----+
