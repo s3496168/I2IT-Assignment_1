@@ -14,3 +14,7 @@ The key's randomart image is:
 |oBoo .           |
 |**Xo             |
 +----[SHA256]-----+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE0bGZGwCSK642v32j2T11H52EfDuFhnKGBJ9sSXPILs bcgibson22@gmail.com
+
+user-bg-1023@DESKTOP-NOT3ASA:~/.ssh$ ls
