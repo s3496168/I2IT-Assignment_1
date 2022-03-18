@@ -1,0 +1,20 @@
+1800365100
+
+1800365100
+
+Your identification has been saved in /home/user-bg-1023/.ssh/id_ed25519-RMIT-NEW.
+Your public key has been saved in /home/user-bg-1023/.ssh/id_ed25519-RMIT-NEW.pub.
+The key fingerprint is:
+SHA256:BD0yyJXCbH994HaPvLsUBm7XiyOXoLQLh/e8OSHhdYU s3496168@student.rmit.edu.au
+The key's randomart image is:
++--[ED25519 256]--+
+|   + ooo     .   |
+|    B +.o . E .  |
+|   . o o.+.. .   |
+|      ..o.=.+.   |
+|       oS++=+o.  |
+|       oo+.+o+.. |
+|      o =...*..  |
+|       + +.=..   |
+|        . =ooo   |
++----[SHA256]-----+
