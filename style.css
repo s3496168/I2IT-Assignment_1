@@ -1,7 +1,8 @@
 body{
     text-align: center;
     font-size: 115%;
-    background-color: navy;
+    background-image: linear-gradient(navy, blue);
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .tile{
@@ -13,20 +14,28 @@ body{
 h1{
     color: #00008b;
     font-size: 200%;
+    font-family: 'Roboto', sans-serif;
 }
 
 h2{
-    color: blue;
+    color: rgb(29, 29, 199);
     font-size: 150%;
+    font-family: 'Roboto', sans-serif;
 }
 
 h3{
     color: blue;
-    font-size: 125;
+    font-size: 125%;
+    font-family: 'Roboto', sans-serif;
 }
 
 .shrink-img{
     width: 65%;
+    height: auto;
+}
+
+.shrink-img-more{
+    width: 25%;
     height: auto;
 }
 
