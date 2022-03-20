@@ -1,3 +1,15 @@
+body{
+    text-align: center;
+    font-size: 115%;
+    background-color: navy;
+}
+
+.tile{
+    width: 80%;
+    margin-left: 10%;
+    background-color: white;
+}
+
 h1{
     color: #00008b;
     font-size: 200%;
@@ -6,4 +18,20 @@ h1{
 h2{
     color: blue;
     font-size: 150%;
+}
+
+h3{
+    color: blue;
+    font-size: 125;
+}
+
+.shrink-img{
+    width: 65%;
+    height: auto;
+}
+
+.small-width{
+    width: 60%;
+    margin-left: 20%;
+    text-align: left;
 }
